@@ -35,4 +35,4 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 ### `npm sanity start`
 
-Command to run SANITY backends from the terminator.
+Command to run SANITY backends from the terminal.
